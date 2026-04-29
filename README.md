@@ -12,4 +12,5 @@ This program calculates the factorial of a number using a loop.
 
 ## How to run:
 1.compile : gcc factorial.c
+<br>
 2.run : ./a.exe
